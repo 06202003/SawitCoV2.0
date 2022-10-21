@@ -1,0 +1,51 @@
+[
+  {
+    "id": "satu",
+    "name": "Palm Oil",
+    "image": "images/minyak.png",
+    "harga": 10000,
+    "deskripsi": "Palm oil is edible oil which is extracted from the pulp of fruit of oil palms. The color of pulp is red. That's why crude palm oil is naturally similar to pulp color because of high inactive vitamin A content. It is different from kernel oil or coconut oil. Commonly it is combined or mixed with coconut oil to make highly saturated vegetable fat, which is also used for cooking purposes. <br/><br /> <h5 style='text-indent: 40px; text-align:justify'> Main usage of CPO is for cooking purposes and is largely used in South-East Asia, West Africa and some parts of Brazil. Commercial kitchens use it due to its low cost. It's not healthy as its counterparts due to high content of saturated fats. Largest producer of CPO is Indonesia, Malaysia, Nigeria and Columbia. They are major exporters of palm oil. India is net importer of Crude Palm Oil and Mumbai being one of the major trading centers. It is also used for making bio diesel and one of it's by product is Glycerin.</h5>"
+  },
+  {
+    "id": "dua",
+    "name": "Biofuel",
+    "image": "images/biofuel.png",
+    "harga": 10000,
+    "deskripsi": "Palm oil biofuel is produced from the edible vegetable oil obtained from the fruit of the oil palm tree. In 2004, worldwide production of Soybean oil was around 28 million metric tons which was the most widely produced edible vegetable oil. However, it appears that palm oil may have now surpassed soybean oil production.<br/><br /> <h5 style='text-indent: 40px; text-align:justify'> The palm fruit is the source of both palm oil (extracted from palm fruit) and palm kernel oil (extracted from the fruit seeds). Palm oil itself is reddish because it contains a high amount of betacarotene. Biofuels from palm oil are taking on renewed global importance as countries seek to substitute the soaring price of conventional oil and also cut hazardous emissions. Palm oil’s emergence in the market comes quite some time after the introduction of ethanol, made from sugarcane, and other additives.</h5>"
+  },
+  {
+    "id": "tiga",
+    "name": "Soap",
+    "image": "images/sabun.png",
+    "harga": 10000,
+    "deskripsi": " The benefits of palm oil in soap are plenty: it adds hardness to soap bars, is fairly inexpensive, and adds a creamy, stable lather. It also contains vitamins A and E which make it skin-friendly. There are, however, downsides to using palm oil, namely its links to deforestation and loss of animal habitat. Palm oil helps keep the skin clean and moisturized making it an ideal ingredient for soaps.<br/><br /> <h5 style='text-indent: 40px; text-align:justify'>These oils are solid at room temperature and help produce a hard bar with stable lather. In soap making, palm oil is normally used with coconut oil to help stabilize the lather and produce the ultimate hard but bubble bar of soap.</h5>"
+  },
+  {
+    "id": "empat",
+    "name": "Shampoo",
+    "image": "images/sampo.png",
+    "harga": 10000,
+    "deskripsi": "Palm oil is an active conditioning agent found in many shampoos. So if your hair is soft and silky, it's because of palm oil. Palm oil makes hair cleaner, fresher and healthier. Makes hair softer and smoother, free from dry ends and split ends.<br/><br /> <h5 style='text-indent: 40px; text-align:justify'> It is widely used for its properties and because it is cheap. Its low price is partly due to its high yield, but also because, as with other mass produced crops, the environmental and social costs go unaccounted for. </h5>"
+  },
+  {
+    "id": "lima",
+    "name": "Margarine",
+    "image": "images/margarin.png",
+    "harga": 10000,
+    "deskripsi": "Palm oil keeps it free of harmful trans fats, can be smeared right out of the fridge, and is suitable for vegans and vegetarians alike. There are some suppliers of margarine on the market that do not use palm oil. Unfortunately, a margarine without palm oil is not automatically the better margarine. <br/><br /> <h5 style='text-indent: 40px; text-align:justify'>Margarine is an industrially produced fat-water mixture that would not be spreadable without hardening. Trans-fatty acids can form during hardening. These increase the bad LDL cholesterol in the blood and put a strain on the cardiovascular system. In the meantime, margarine producers have recognized the problem and reduced it through other procedures, so that trans fatty acids in margarine are hardly relevant today. Solid fats such as palm oil or coconut oil are added to the margarine to harden it. In contrast to sunflower or rapeseed oil, for example, palm oil is solid at room temperature.</h5> "
+  },
+  {
+    "id": "enam",
+    "name": "Lipstick",
+    "image": "images/lipstick.png",
+    "harga": 10000,
+    "deskripsi": "Lipsticks are one of the most demanding cosmetics that women use as a part of their daily makeup routine. Many companies use palm oil in their lipsticks as well as other cosmetic products. There are wide applications of palm oil in cosmetics for texturizing and moisturizing properties, and when it comes to lipsticks, it holds the color well. Palm oil makes lipstick easy to put on and remove, it holds a striking color with a glossy texture and stays in place when you want it."
+  },
+  {
+    "id": "tujuh",
+    "name": "Detergent",
+    "image": "images/detergent.png",
+    "harga": 10000,
+    "deskripsi": "With palm oil, the detergent can foam when exposed to water. It can clean clothes evenly and thoroughly, and make clothes fresh and odorless."
+  }
+]

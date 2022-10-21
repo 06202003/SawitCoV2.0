@@ -1,0 +1,53 @@
+body {
+  background: rgb(255, 242, 182);
+  background: linear-gradient(0deg, rgba(255, 242, 182, 1) 0%, rgba(255, 255, 255, 1) 100%, rgba(248, 217, 72, 1) 100%);
+}
+
+.login {
+  margin: 0 auto;
+  max-width: 1000px;
+  position: relative;
+  top: 50%;
+  transform: translate(0, -50%);
+}
+.logo-login {
+  max-width: 20rem;
+  width: 100%;
+  margin: 3rem;
+  border: none;
+}
+.daftarsekarang {
+  text-align: left;
+  text-decoration: none;
+}
+
+.button-login-outline {
+  outline: 1px solid #f7d32c;
+  transition: all 0.5s;
+}
+
+.button-login-outline:hover {
+  transform: translateY(-0.2rem);
+  background-color: #f7d32c;
+  border: black solid 2px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}
+
+.link-login {
+  color: #c8aa22 !important;
+  opacity: 50%;
+  text-decoration: none !important;
+}
+.link-login:hover {
+  opacity: 100%;
+  color: #a98f1d !important;
+}
+.icon-login {
+  color: #c8aa22;
+}
+.icon-login:hover {
+  color: #a98f1d;
+}
+.label-daftar {
+  font-size: 0.8em;
+}
